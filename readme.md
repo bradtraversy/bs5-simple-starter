@@ -1,6 +1,6 @@
 # Bootstrap 5 Simple Starter
 
-This is a simple boilerplate for creating and customizing Bootstrap projects. It does not use any module bundler. It will be used in my upcoming Bootstrap 5 course.
+This is a simple boilerplate for creating and customizing Bootstrap websites. Just run the watch command and customize Bootstrap by changing the variable values.
 
 ## Usage
 
