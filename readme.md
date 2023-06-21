@@ -1,6 +1,8 @@
 # Bootstrap 5 Simple Starter
 
-This is a simple boilerplate for creating and customizing Bootstrap websites. Just run the watch command and customize Bootstrap by changing the variable values.
+This is a simple boilerplate for creating and customizing Bootstrap websites. Just run the `npm run sass:watch` command and customize Bootstrap by changing the variable values.
+
+This boilerplate is used in my [Bootstrap 5 From Scratch](https://traversymedia.com/bootstrap-from-scratch) course to build 5 different websites.
 
 ## Usage
 
