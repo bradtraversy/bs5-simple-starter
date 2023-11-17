@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Source+Sans+3:wght@200;300;400;500;600;700;800&display=swap");
+.container-0 {
+  max-width: 70rem;
+  background-color: white;
+  padding-bottom: 20px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  margin-top: 30px;
+}
+.headingContainer {
+  background-color: rgb(245, 142, 66);
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border: 3px solid rgb(255, 108, 0);
+}
+.headingContainer h1 {
+  font-family: "Source Sans 3", sans-serif;
+  font-weight: 600;
+}
+.smallTextureCard {
+  background-image: url("https://images.clickfunnels.com/3e/912fb973a54988ba10b17f2844103e/Untitled-design-5-.jpg");
+  background-position: center;
+  background-size: cover;
+  padding: 20px 25px;
+}
+.stepsHeading {
+  color: rgb(21, 43, 80);
+  font-size: 52px;
+  text-align: left;
+  letter-spacing: 3px;
+  font-weight: 700;
+  font-family: "Anton", sans-serif;
+}
+.textSmallHeading {
+  color: #152b50;
+  font-size: 32px;
+  text-align: left;
+
+  font-family: "Source Sans 3", sans-serif;
+  font-weight: 700;
+}
+.stepsParagraph {
+  font-size: 20px;
+  text-align: left;
+  font-weight: 400;
+  font-size: 20px;
+  font-family: "Source Sans 3", sans-serif;
+  color: rgb(0, 0, 0);
+}
